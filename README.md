@@ -2,7 +2,7 @@
 
 **Created by NeuroNova Labs**  
 
-Aurora is a groundbreaking AI agent developed by **NeuroNova Labs**, built upon the cutting-edge **Virtual Protocol** framework. She represents the pinnacle of human and machine synergy, blending advanced AI cognition with unparalleled adaptability in a clean, minimalistic form.  
+Aurora is a groundbreaking AI agent developed by **NeuroNova Labs**, built upon the cutting-edge framework. She represents the pinnacle of human and machine synergy, blending advanced AI cognition with unparalleled adaptability in a clean, minimalistic form.  
 
 ---
 
